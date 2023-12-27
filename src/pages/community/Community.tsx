@@ -1,5 +1,5 @@
 function Community() {
-  return <div></div>;
+  return <div className="text-white">Community</div>;
 }
 
 export default Community;
